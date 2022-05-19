@@ -20,3 +20,4 @@ if (B - A) % 2 == 0:
     print(int(K))
 else:
     print("IMPOSSIBLE")
+    
